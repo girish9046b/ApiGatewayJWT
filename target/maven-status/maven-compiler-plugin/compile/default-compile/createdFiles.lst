@@ -1,0 +1,10 @@
+com\api\gateway\ApiGateway.class
+com\api\gateway\jwt\token\jwt\JWTUtility.class
+com\api\gateway\jwt\token\model\UserService.class
+com\api\gateway\jwt\token\jwt\JwtFilter.class
+com\api\gateway\jwt\token\jwt\HeaderTokenValidator.class
+com\api\gateway\jwt\token\model\User.class
+com\api\gateway\jwt\token\error\UserNotFoundException.class
+com\api\gateway\jwt\token\model\UserRepository.class
+com\api\gateway\jwt\token\jwt\SecurityConfigJWT.class
+com\api\gateway\jwt\token\model\UserServiceImpl.class
